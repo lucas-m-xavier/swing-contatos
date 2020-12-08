@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\ConsultarContatosPresenter.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\ContatosApplication.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\ManterContatoPresenter.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\observable\Observer.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\command\PresenterCommand.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\model\Contato.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\view\ConsultarContatosView.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\observable\Subject.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\PrincipalPresenter.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\state\AddContatoState.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\state\StateCRUD.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\view\ManterContatoView.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\command\AddCommand.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\view\PrincipalView.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\service\ContatoService.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\collection\ContatoCollection.java

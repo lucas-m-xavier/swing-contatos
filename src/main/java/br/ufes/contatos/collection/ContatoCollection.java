@@ -6,10 +6,8 @@
 package br.ufes.contatos.collection;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import org.springframework.web.client.RestTemplate;
 import br.ufes.contatos.model.Contato;
 
 /**
@@ -17,14 +15,14 @@ import br.ufes.contatos.model.Contato;
  * @author Lucas
  */
 public class ContatoCollection {
-    private ArrayList<Contato> contatos;
+    private List<Contato> contatos;
 
     public ContatoCollection() {
         contatos = new ArrayList<>();
     }
 
-    public ContatoCollection(List<Contato> asList) {
-        contatos = new ArrayList<>();
+    public ContatoCollection(List<Contato> contatos) {
+        this.contatos = contatos;
     }
 
     public void add(Contato contato) {

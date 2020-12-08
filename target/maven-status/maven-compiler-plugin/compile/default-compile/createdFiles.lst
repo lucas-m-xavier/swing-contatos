@@ -11,11 +11,11 @@ br\ufes\contatos\view\PrincipalView$2.class
 br\ufes\contatos\view\PrincipalView.class
 br\ufes\contatos\presenter\ConsultarContatosPresenter$1.class
 br\ufes\contatos\presenter\command\PresenterCommand.class
+Main.class
 br\ufes\contatos\presenter\ManterContatoPresenter$1.class
 br\ufes\contatos\presenter\ManterContatoPresenter$2.class
 br\ufes\contatos\presenter\observable\Subject.class
 br\ufes\contatos\view\ConsultarContatosView$1.class
-br\ufes\contatos\ContatosApplication.class
 br\ufes\contatos\view\ManterContatoView$1.class
 br\ufes\contatos\model\Contato.class
 br\ufes\contatos\collection\ContatoCollection.class

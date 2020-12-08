@@ -1,5 +1,4 @@
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\ConsultarContatosPresenter.java
-C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\ContatosApplication.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\ManterContatoPresenter.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\observable\Observer.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\command\PresenterCommand.java
@@ -12,5 +11,6 @@ C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\s
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\view\ManterContatoView.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\presenter\command\AddCommand.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\view\PrincipalView.java
+C:\Users\Lucas\Desktop\swing-contatos\src\main\java\Main.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\service\ContatoService.java
 C:\Users\Lucas\Desktop\swing-contatos\src\main\java\br\ufes\contatos\collection\ContatoCollection.java
